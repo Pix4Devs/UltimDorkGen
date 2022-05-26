@@ -10,3 +10,6 @@ A high quality dork generation software.
 ### Requirements
 - .NET Framework 4.8 <a href="https://dotnet.microsoft.com/en-us/download/dotnet-framework/net48">Install From Here</a>
 - Chrome Version 100,101 or 102
+
+### Reminder
+--- It is made and would work only on Windows 10-11
